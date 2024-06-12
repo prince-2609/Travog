@@ -100,7 +100,7 @@ public class Expense {
 			QaExtentReport.extentScreenshot("Terms and conditions.");
 			QaRobot.ClickOnElement("exptermandcond");
 			Thread.sleep(10000);
-			QaExtentReport.extentScreenshot(" Successfully Registered.");
+			QaExtentReport.extentScreenshot("Successfully Registered.");
 		}
 
 	}
